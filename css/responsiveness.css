@@ -1,0 +1,62 @@
+@media (max-width:815px) {
+
+    .main {
+        padding: 0 29px;
+    }
+
+    .nav-right-side {
+        flex-direction: column;
+        gap: 12px;
+        align-items: end;
+    }
+
+    .text-lg {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .text-md {
+        font-size: 18px;
+        margin: 18px 0;
+    }
+
+    .text-sm {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .hero-btns {
+        flex-direction: column;
+    }
+
+    .flex-sections {
+        flex-direction: column;
+    }
+
+    .image-section {
+        position: relative;
+        height: 200px;
+        width: 300px;
+    }
+
+    .video-overlay {
+        height: 130px;
+        width: 180px;
+        top: 5px;
+        left: 61px;
+    }
+
+    .section-right-side {
+        margin-top: 3rem;
+    }
+
+    .footer-links {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0 34px;
+    }
+
+    .questions-and-answers-section-bottom {
+        width: auto;
+        margin-bottom: 4rem;
+    }
+}
