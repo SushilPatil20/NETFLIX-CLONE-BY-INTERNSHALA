@@ -1,1 +1,1 @@
-<strong>Go Live</strong> : https://netflix-ui-by-dev-sushil.netlify.app/
+<strong>Go Live</strong> : https://netflix-ui-by-sushil.netlify.app/
